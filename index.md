@@ -9,4 +9,4 @@ Your game progress and settings are stored only on your device. Uninstalling the
 data deletes them. If you use the Share button, your device's share sheet opens and only what you
 choose to share leaves the app, sent by the app you pick.
 
-Contact: imanjali.paudel@gmail.com
+Contact: imankit.paudel@gmail.com
